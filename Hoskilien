@@ -113,13 +113,13 @@
     </style>
 </head>
 <body>
-    <header><img src="file:///Macintosh HD/Users/adamcascio/Desktop/Adams Things/Hoskilien/Hoskilien Website/Images/HoskilienFace-Update.png" width="150" height="150" alt=""/>
+    <header><img src="images/HoskilienFace-Update.png" width="150" height="150" alt=""/>
         <h1>Hoskilien ($HSKN)</h1>
         <p>The Cardano Meme Coin with Real-World Utility</p>
     </header>
 
     <section>
-      <h2><img src="file:///Macintosh HD/Users/adamcascio/Desktop/Adams Things/Hoskilien/Hoskilien Website/Images/Hoskilien-Banner.jpeg" width="600" height="200" alt=""/><br>Our Mission<br></h2>
+      <h2><img src="images/Hoskilien-Banner.jpeg" width="600" height="200" alt=""/><br>Our Mission<br></h2>
       <p>
             Hoskilien combines the fun of meme coins with real-life utility. Through our partnership with 
             <b>World Mobile Link Airnodes</b>, we aim to build a sustainable and innovative ecosystem.
@@ -157,7 +157,7 @@
             Always remember: <b>Do Your Own Research (DYOR)</b> and <b>This is Not Financial Advice (NFA)</b>. 
             Crypto is fun but carries risks!
         </p>
-    <img src="file:///Macintosh HD/Users/adamcascio/Desktop/Adams Things/Hoskilien/Hoskilien Website/Images/THEHoskilien.png" width="500" height="500" alt=""/>    </section>
+    <img src="images/THEHoskilien.png" width="500" height="500" alt=""/>    </section>
 
 <br>
 	<style>

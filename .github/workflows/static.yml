@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Hoskilien ($HSKN) - The Cardano Meme Coin with Real-World Utility through World Mobile Link Airnodes.">
+    <title>Hoskilien ($HSKN) - The Meme Coin with IRL Utility</title>
+    <style>
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body Styling */
+        body {
+            font-family: 'Arial', sans-serif;
+            color: white;
+            background: linear-gradient(135deg, #0d1b2a, #0a9396, #3a0ca3);
+            background-size: 400% 400%;
+            animation: gradientBG 12s ease infinite;
+            margin: 0;
+        }
+
+        /* Keyframes for Background Animation */
+        @keyframes gradientBG {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            padding: 4rem 1rem;
+            background: rgba(13, 27, 42, 0.9);
+            border-bottom: 2px solid #0a9396;
+        }
+
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            text-shadow: 0px 0px 15px #3a0ca3;
+        }
+
+        header p {
+            font-size: 1.2rem;
+        }
+
+        /* Sections */
+        section {
+            padding: 3rem 1rem;
+            text-align: center;
+            max-width: 900px;
+            margin: 2rem auto;
+            background: rgba(15, 38, 61, 0.8);
+            border-radius: 12px;
+            box-shadow: 0 0 20px rgba(58, 12, 163, 0.5);
+        }
+
+        section h2 {
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+            text-shadow: 0px 0px 10px #0a9396;
+        }
+
+        section p, section ul {
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        section ul li {
+            margin: 1rem 0;
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        section ul li::before {
+            content: '⭐';
+            position: absolute;
+            left: 0;
+            color: #3a0ca3;
+        }
+
+        /* Footer */
+        footer {
+            background: rgba(13, 27, 42, 0.9);
+            padding: 2rem 1rem;
+            text-align: center;
+            border-top: 2px solid #0a9396;
+        }
+
+        footer a {
+            color: #3a0ca3;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        footer a:hover {
+            text-shadow: 0px 0px 8px #0a9396;
+        }
+
+        footer p {
+            margin-top: 1rem;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header><img src="file:///Macintosh HD/Users/adamcascio/Desktop/Adams Things/Hoskilien/Hoskilien Website/Images/HoskilienFace-Update.png" width="150" height="150" alt=""/>
+        <h1>Hoskilien ($HSKN)</h1>
+        <p>The Cardano Meme Coin with Real-World Utility</p>
+    </header>
+
+    <section>
+      <h2><img src="file:///Macintosh HD/Users/adamcascio/Desktop/Adams Things/Hoskilien/Hoskilien Website/Images/Hoskilien-Banner.jpeg" width="600" height="200" alt=""/><br>Our Mission<br></h2>
+      <p>
+            Hoskilien combines the fun of meme coins with real-life utility. Through our partnership with 
+            <b>World Mobile Link Airnodes</b>, we aim to build a sustainable and innovative ecosystem.
+        </p>
+        <p>
+            Profits are redistributed to our treasury and liquidity pool. As our treasury grows, 
+            we deploy more airnodes to expand utility and create value for our community.
+        </p>
+    </section>
+
+    <section>
+      <h2>The Hoskilien Theme</h2>
+        <p>
+            Inspired by Charles Hoskinson's legendary trip to Space-X and the statement: 
+            <em>"I went to Space-X and something happened."</em>
+        </p>
+        <p>
+            Hoskilien is where meme culture meets interstellar utility. Join us on this out-of-this-world adventure!
+        </p>
+</section>
+
+<section>
+        <h2>Why Choose Hoskilien?</h2>
+        <ul>
+            <li>Powered by Cardano - A highly decentralized blockchain</li>
+            <li>Real-World Utility through Airnodes</li>
+            <li>Profits shared with the community</li>
+            <li>A fun and rewarding journey</li>
+        </ul>
+    </section>
+
+    <section>
+      <h2>DYOR & NFA</h2>
+        <p>
+            Always remember: <b>Do Your Own Research (DYOR)</b> and <b>This is Not Financial Advice (NFA)</b>. 
+            Crypto is fun but carries risks!
+        </p>
+    <img src="file:///Macintosh HD/Users/adamcascio/Desktop/Adams Things/Hoskilien/Hoskilien Website/Images/THEHoskilien.png" width="500" height="500" alt=""/>    </section>
+
+<br>
+<style>
+    footer {
+        background: rgba(13, 27, 42, 0.9);
+        padding: 2rem 1rem;
+        text-align: center;
+        border-top: 2px solid #0a9396;
+    }
+
+    footer .footer-buttons {
+        margin: 1rem 0;
+    }
+
+    .button {
+        display: inline-block;
+        background: linear-gradient(135deg, #3a0ca3, #0a9396);
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        padding: 0.75rem 1.5rem;
+        margin: 0.5rem;
+        border-radius: 25px;
+        transition: transform 0.2s, box-shadow 0.3s;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .button:hover {
+        transform: scale(1.05);
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+    }
+
+    .button:active {
+        transform: scale(0.95);
+    }
+</style>
+<footer><br>
+    <p>Join the Hoskilien community:</p>
+    <div class="footer-buttons">
+      <a href="https://x.com/hoskilien" target="_blank" class="button">Twitter</a>
+      <a href="https://discord.gg/jsEHcuCrPC" target="_blank" class="button">Discord</a>
+      <a href="https://cardanoscan.io/token/797e54149886d5aa8106e1065ae0b97e4be87e77a0ee05030a3f97ca486f736b696c69656e" target="_blank" class="button">Token Info</a>
+    </div>
+<br>
+  <p>&copy; 2024 Hoskilien ($HSKN) - All Rights Reserved.</p>
+</footer>
+</body>
